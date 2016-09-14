@@ -17,8 +17,8 @@ If this were a program:
 * $ java App
 
 ## Author/s
-Stephen Emery
+Stephen Emery & Vanessa Palacios Sharma
 
 ##License
 This work can be used under the MIT License.
-Copyright (c) 2016 Stephen Emery
+Copyright (c) 2016 Stephen Emery & Vanessa Palacios Sharma
